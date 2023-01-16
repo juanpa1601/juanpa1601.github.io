@@ -27,3 +27,8 @@
     top: -25px;
 }
 
+img.redimension {
+    max-width: 350px;
+    max-height: 900px;
+}
+
